@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author pawan
- *
- */
-module dishwala {
-}
